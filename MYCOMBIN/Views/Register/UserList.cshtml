@@ -1,0 +1,41 @@
+@model IEnumerable<UserInfo>
+
+<br><br><br><br>
+<div class="posts">
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Kullanıcı Adı</th>
+                    <th>Adı Soyadı</th>
+                    <th>E-posta</th>
+                    <th>Telefon</th>
+                    <th>Şifre</th>
+                    <th>Kayıt Tarihi</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var user in Model)
+                {
+                    <tr>
+                        <td>@user.Username</td>
+                        <td>@user.FullName</td>
+                        <td>@user.Email</td>
+                        <td>@user.Telephone</td>
+                        <td>@user.Password</td>
+                        <td>@user.UpdateDate</td>
+                        <td><a href="~/Register/Edit/@user.Id">
+                            <button
+                                style="background-color:rgb(5, 128, 180); border-radius: 5px; color: rgb(255, 255, 255); width: 70px;">Düzenle
+                            </button></a>
+                        </td>
+                        <td>
+                            <a href="~/Register/Delete/@user.Id">
+                            <button
+                                style="background-color:rgb(139, 4, 172);  border-radius: 5px; color: rgb(255, 255, 255); width: 50px;">Sil</button></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>

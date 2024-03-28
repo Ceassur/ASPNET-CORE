@@ -1,0 +1,14 @@
+﻿<main class="main-container">
+  <section class="content-container">
+    <div class="content">
+      <p>@ViewBag.Message</p>
+      <span>@ViewBag.MessageMotivation</span>
+      @await Html.PartialAsync("Story_List")
+      @await Html.PartialAsync("Post_List")
+
+    </div>
+
+    <partial name="Side_User_Profile" model=Repository.GetById(1) />
+
+  </section>
+</main>

@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\SingletonTest\bin\Debug\net7.0\SingletonTest.exe
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\SingletonTest\bin\Debug\net7.0\SingletonTest.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\SingletonTest\bin\Debug\net7.0\SingletonTest.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\SingletonTest\bin\Debug\net7.0\SingletonTest.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\SingletonTest\bin\Debug\net7.0\SingletonTest.pdb
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\SingletonTest\obj\Debug\net7.0\SingletonTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\SingletonTest\obj\Debug\net7.0\SingletonTest.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\SingletonTest\obj\Debug\net7.0\SingletonTest.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\SingletonTest\obj\Debug\net7.0\SingletonTest.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\SingletonTest\obj\Debug\net7.0\SingletonTest.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\SingletonTest\obj\Debug\net7.0\refint\SingletonTest.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\SingletonTest\obj\Debug\net7.0\SingletonTest.pdb
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\SingletonTest\obj\Debug\net7.0\SingletonTest.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\SingletonTest\obj\Debug\net7.0\ref\SingletonTest.dll

@@ -1,0 +1,15 @@
+<section class="side-menu">
+  <div class="side-menu__user-profile">
+    <a href="/ProfileDetail/Index/@Model.NickName" target="_blank" class="side-menu__user-avatar">
+      <img src="~/image/@Model.ProfileImage" alt="User Picture" />
+    </a>
+    <div class="side-menu__user-info">
+      <a href="https://github.com/leocosta1" target="_blank">@Model.NickName</a>
+      <span>@Model.RealName</span>
+    </div>
+    <button class="side-menu__user-button">Switch</button>
+  </div>
+
+  @await Html.PartialAsync("Suggest")
+
+</section>

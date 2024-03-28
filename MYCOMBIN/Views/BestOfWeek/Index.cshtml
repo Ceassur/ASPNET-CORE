@@ -1,0 +1,12 @@
+<br>
+<br>
+<br>
+<div class="posts" style="width: 700px; position: relative; margin: auto;" !important>
+    @foreach (var Post in Model)
+    {
+    <partial name="_Post" model="Post"   />
+    }
+</div>
+<div class="fullscreen-overlay" onclick="closeFullscreen()">
+    <img class="fullscreen-image" id="fullscreenImg" alt="Fullscreen Image" hidden="true">
+</div>

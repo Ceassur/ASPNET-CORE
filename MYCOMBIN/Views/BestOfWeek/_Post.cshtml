@@ -1,0 +1,70 @@
+<article class="post">
+    <div class="post__header">
+        <div class="post__profile">
+            <a href="/ProfileDetail/Index/@Model.NickName" target="_blank" class="post__avatar">
+                <img src="~/image/@Model.ProfileImage" alt="User Picture" />
+            </a>
+            <a href="/ProfileDetail/Index/@Model.NickName" target="_blank" class="post__user">@Model.NickName</a>
+        </div>
+
+        <button class="post__more-options">
+            <img src="~/assets/options.png" width="24" height="24" alt="" class="header__theme-button-moon">
+            <img src="~/assets/white-options.png" width="24" height="24" alt="" class="header__theme-button-sun">
+        </button>
+    </div>
+
+    <div class="post__content">
+        <div class="post__medias">
+            <img class="post__media" src="~/image/PostImage/@Model.PostImage" alt="Post Content" width="150"
+                height="600" onclick="showImage(this)" />
+        </div>
+        <div id="modal" class="modal">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <img class="modal-content" id="modalImage" width="150" height="600">
+        </div>
+    </div>
+
+    <div class="post__footer">
+        <div class="post__buttons">
+            <button class="post__button" onclick="increaseLikeCount('@Model.Id')">
+                <img src="~/assets/LikeButton.png" width="33" height="33" alt="">
+                <span id="LikeButton__@Model.Id">@Model.LikeEmojiCount</span>
+            </button>
+            <button class="post__button" onclick="increaseMiddleLikeCount('@Model.Id')">
+                <img src="~/assets/MiddleLikeButton.png" width="33" height="33" alt="">
+                <span id="MiddleLikeButton__@Model.Id">@Model.MiddlelikeEmojiCount</span>
+            </button>
+            <button class="post__button" onclick="increaseDislikeCount('@Model.Id')">
+                <img src="~/assets/DisLikeButton.png" width="33" height="33" alt="">
+                <span id="DislikeButton__@Model.Id">@Model.DislikeEmojiCount</span>
+            </button>
+
+            <div class="post__indicators"></div>
+
+            <button class="post__button post__button--align-right">
+                <img src="~/assets/bookmark.png" width="24" height="24" alt="" class="header__theme-button-moon">
+                <img src="~/assets/white-bookmark.png" width="24" height="24" alt="" class="header__theme-button-sun">
+            </button>
+        </div>
+
+        <div class="post__infos">
+            <div class="post__likes">
+                @{
+                var Total = Convert.ToInt32(@Model.LikeEmojiCount) + Convert.ToInt32(@Model.MiddlelikeEmojiCount) +
+                Convert.ToInt32(@Model.DislikeEmojiCount);
+                }
+                <span><b>@Total kişi Tepki Verdi</b></span>
+            </div>
+
+            <div class="post__description">
+                <span>
+                    <a class="post__name--underline" href="ProfileDetail/Index/@Model.NickName"
+                        target="_blank"><b>@Model.NickName</b></a>
+                    @Model.Description
+                </span>
+            </div>
+
+            <span class="post__date-time">@Model.UploadTime</span>
+        </div>
+    </div>
+</article>

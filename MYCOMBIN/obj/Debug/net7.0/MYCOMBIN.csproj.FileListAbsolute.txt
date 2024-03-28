@@ -1,0 +1,517 @@
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.staticwebassets.runtime.json
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.exe
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.deps.json
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.runtimeconfig.json
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.dll
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.pdb
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.AssemblyInfoInputs.cache
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.AssemblyInfo.cs
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.RazorAssemblyInfo.cache
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.RazorAssemblyInfo.cs
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.MYCOMBIN.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.build.MYCOMBIN.props
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MYCOMBIN.props
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MYCOMBIN.props
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\scopedcss\bundle\MYCOMBIN.styles.css
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\scopedcss\projectbundle\MYCOMBIN.bundle.scp.css
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.dll
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\refint\MYCOMBIN.dll
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.pdb
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.genruntimeconfig.cache
+C:\Users\user\Documents\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\ref\MYCOMBIN.dll
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\appsettings.json
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.staticwebassets.runtime.json
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.exe
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.deps.json
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.runtimeconfig.json
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.dll
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.pdb
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.csproj.AssemblyReference.cache
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.AssemblyInfoInputs.cache
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.AssemblyInfo.cs
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.csproj.CoreCompileInputs.cache
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.RazorAssemblyInfo.cache
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.RazorAssemblyInfo.cs
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.MYCOMBIN.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.build.MYCOMBIN.props
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MYCOMBIN.props
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MYCOMBIN.props
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\scopedcss\bundle\MYCOMBIN.styles.css
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\scopedcss\projectbundle\MYCOMBIN.bundle.scp.css
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.dll
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\refint\MYCOMBIN.dll
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.pdb
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.genruntimeconfig.cache
+C:\Users\efeya\OneDrive\Belgeler\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\ref\MYCOMBIN.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\appsettings.json
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.staticwebassets.runtime.json
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.exe
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.deps.json
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.runtimeconfig.json
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.pdb
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.AssemblyInfoInputs.cache
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.AssemblyInfo.cs
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.csproj.CoreCompileInputs.cache
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.RazorAssemblyInfo.cache
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.RazorAssemblyInfo.cs
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.MYCOMBIN.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.build.MYCOMBIN.props
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MYCOMBIN.props
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MYCOMBIN.props
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\scopedcss\bundle\MYCOMBIN.styles.css
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\scopedcss\projectbundle\MYCOMBIN.bundle.scp.css
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\refint\MYCOMBIN.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.pdb
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.genruntimeconfig.cache
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\ref\MYCOMBIN.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Humanizer.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.csproj.AssemblyReference.cache
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\MYCOMBIN (2)\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.csproj.CopyComplete
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\appsettings.json
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.staticwebassets.runtime.json
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.exe
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.deps.json
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.runtimeconfig.json
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.pdb
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Humanizer.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.csproj.AssemblyReference.cache
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.AssemblyInfoInputs.cache
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.AssemblyInfo.cs
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.csproj.CoreCompileInputs.cache
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.RazorAssemblyInfo.cache
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.RazorAssemblyInfo.cs
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.MYCOMBIN.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.build.MYCOMBIN.props
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MYCOMBIN.props
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MYCOMBIN.props
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\scopedcss\bundle\MYCOMBIN.styles.css
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\scopedcss\projectbundle\MYCOMBIN.bundle.scp.css
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.csproj.CopyComplete
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\refint\MYCOMBIN.dll
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.pdb
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.genruntimeconfig.cache
+C:\Users\tmrkp\OneDrive\Masaüstü\Acunmedya\HAFTA12\EfeGüncel\MYCOMBIN\obj\Debug\net7.0\ref\MYCOMBIN.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.csproj.AssemblyReference.cache
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.AssemblyInfoInputs.cache
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.AssemblyInfo.cs
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.csproj.CoreCompileInputs.cache
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.RazorAssemblyInfo.cache
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.RazorAssemblyInfo.cs
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\refint\MYCOMBIN.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.pdb
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\appsettings.json
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.staticwebassets.runtime.json
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.exe
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.deps.json
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.runtimeconfig.json
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.pdb
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Humanizer.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.MYCOMBIN.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.build.MYCOMBIN.props
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MYCOMBIN.props
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MYCOMBIN.props
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\scopedcss\bundle\MYCOMBIN.styles.css
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\scopedcss\projectbundle\MYCOMBIN.bundle.scp.css
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.csproj.CopyComplete
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.genruntimeconfig.cache
+C:\Users\taski\OneDrive\Masaüstü\MYCOMBIN\obj\Debug\net7.0\ref\MYCOMBIN.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\appsettings.Development.json
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\appsettings.json
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.staticwebassets.runtime.json
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.exe
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.deps.json
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.runtimeconfig.json
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.pdb
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Azure.Core.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Azure.Identity.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Humanizer.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\System.CodeDom.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.csproj.AssemblyReference.cache
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.AssemblyInfoInputs.cache
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.AssemblyInfo.cs
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.csproj.CoreCompileInputs.cache
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.MvcApplicationPartsAssemblyInfo.cache
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.RazorAssemblyInfo.cache
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.RazorAssemblyInfo.cs
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\staticwebassets.build.json
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\staticwebassets.development.json
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.MYCOMBIN.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.build.MYCOMBIN.props
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MYCOMBIN.props
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MYCOMBIN.props
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\scopedcss\bundle\MYCOMBIN.styles.css
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\scopedcss\projectbundle\MYCOMBIN.bundle.scp.css
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.csproj.CopyComplete
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\refint\MYCOMBIN.dll
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.pdb
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.genruntimeconfig.cache
+C:\Hakan_Hakyemez\Acun_Medya\MYCOMBIN\MYCOMBIN\obj\Debug\net7.0\ref\MYCOMBIN.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.staticwebassets.runtime.json
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.exe
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\MYCOMBIN.pdb
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.RazorAssemblyInfo.cache
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.RazorAssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.MYCOMBIN.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.build.MYCOMBIN.props
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MYCOMBIN.props
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MYCOMBIN.props
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\scopedcss\bundle\MYCOMBIN.styles.css
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\scopedcss\projectbundle\MYCOMBIN.bundle.scp.css
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\refint\MYCOMBIN.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.pdb
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\MYCOMBIN.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\MYCOMBIN\obj\Debug\net7.0\ref\MYCOMBIN.dll

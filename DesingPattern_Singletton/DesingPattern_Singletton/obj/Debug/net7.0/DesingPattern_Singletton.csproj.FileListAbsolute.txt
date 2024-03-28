@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\DesingPattern_Singletton\bin\Debug\net7.0\DesingPattern_Singletton.exe
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\DesingPattern_Singletton\bin\Debug\net7.0\DesingPattern_Singletton.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\DesingPattern_Singletton\bin\Debug\net7.0\DesingPattern_Singletton.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\DesingPattern_Singletton\bin\Debug\net7.0\DesingPattern_Singletton.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\DesingPattern_Singletton\bin\Debug\net7.0\DesingPattern_Singletton.pdb
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\DesingPattern_Singletton\obj\Debug\net7.0\DesingPattern_Singletton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\DesingPattern_Singletton\obj\Debug\net7.0\DesingPattern_Singletton.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\DesingPattern_Singletton\obj\Debug\net7.0\DesingPattern_Singletton.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\DesingPattern_Singletton\obj\Debug\net7.0\DesingPattern_Singletton.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\DesingPattern_Singletton\obj\Debug\net7.0\DesingPattern_Singletton.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\DesingPattern_Singletton\obj\Debug\net7.0\refint\DesingPattern_Singletton.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\DesingPattern_Singletton\obj\Debug\net7.0\DesingPattern_Singletton.pdb
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\DesingPattern_Singletton\obj\Debug\net7.0\DesingPattern_Singletton.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\ETicaretUygulaması\DesingPattern_Singletton\DesingPattern_Singletton\obj\Debug\net7.0\ref\DesingPattern_Singletton.dll

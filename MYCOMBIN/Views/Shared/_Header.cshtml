@@ -1,0 +1,73 @@
+<header class="header">
+  <nav class="header__content">
+    <div class="header__buttons">
+      <a href="/Home" class="header__home">
+        My Combine
+      </a>
+
+      <button class="header__theme-button" title="Toggle Theme">
+        <img src="~/assets/dark-theme.png" width="24" height="24" class="header__theme-button-moon" alt="">
+        <img src="~/assets/white-theme.png" width="24" height="24" class="header__theme-button-sun" alt="">
+      </button>
+    </div>
+
+    <div class="header__search">
+      <input type="text" placeholder="Search" />
+      <img src="~/assets/search.png" width="24" height="24" alt="" class="header__theme-button-moon">
+      <img src="~/assets/white-search.png" width="24" height="24" alt="" class="header__theme-button-sun">
+    </div>
+
+    <div class="header__buttons header__buttons--mobile">
+      <a href="#">
+        <img src="~/assets/desktop.png" width="24" height="24" alt="" class="header__theme-button-moon">
+        <img src="~/assets/white-desktop.png" width="24" height="24" alt="" class="header__theme-button-sun">
+      </a>
+      <a href="#">
+        <img src="~/assets/mesenger.png" width="24" height="24" alt="" class="header__theme-button-moon">
+        <img src="~/assets/white-mesenger.png" width="24" height="24" alt="" class="header__theme-button-sun">
+      </a>
+      <a href="#">
+        <img src="~/assets/reels.png" width="24" height="24" alt="" class="header__theme-button-moon">
+        <img src="~/assets/white-reels.png" width="24" height="24" alt="" class="header__theme-button-sun">
+      </a>
+    </div>
+
+    <div class="header__buttons header__buttons--desktop">
+      <a href="#">
+        <img src="~/assets/desktop.png" width="24" height="24" alt="" class="header__theme-button-moon">
+        <img src="~/assets/white-desktop.png" width="24" height="24" alt="" class="header__theme-button-sun">
+      </a>
+      <a href="#">
+        <img src="~/assets/mesenger.png" width="24" height="24" alt="" class="header__theme-button-moon">
+        <img src="~/assets/white-mesenger.png" width="24" height="24" alt="" class="header__theme-button-sun">
+      </a>
+      <a href="#">
+        <img src="~/assets/reels.png" width="24" height="24" alt="" class="header__theme-button-moon">
+        <img src="~/assets/white-reels.png" width="24" height="24" alt="" class="header__theme-button-sun">
+      </a>
+      <a href="#">
+        <img src="~/assets/love.png" width="24" height="24" alt="" class="header__theme-button-moon">
+        <img src="~/assets/white-love.png" width="24" height="24" alt="" class="header__theme-button-sun">
+      </a>
+      <button class="profile-button">
+
+        <div class="profile-button__border"></div>
+        <div class="dropdown">
+          <div class="profile-button__picture" data-toggle="dropdown">
+            <img src="~/image/@Model.ProfileImage" alt="User Picture" />
+          </div>
+          </p>
+          <ul class="dropdown-menu">
+            <li><a href="/Login/Index">Giriş Yap</a></li>
+            <li><a href="/Logout">Çıkış Yap</a></li>
+            <li><a href="/Register/Index">Kayıt Ol</a></li>
+            <li><a href="/ProfileDetail/Index/@Model.NickName">Profil</a></li>
+            <li><a href="/Settings/Index/@Model.NickName">Ayarlar</a></li>
+            <li><a href="/Persona/Index/">Persona Ekle</a></li>
+            <li><a href="/UserPersona/Index/">Persona Eşle</a></li>
+          </ul>
+        </div>
+      </button>
+    </div>
+  </nav>
+</header>

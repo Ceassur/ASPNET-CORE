@@ -1,0 +1,45 @@
+@model UserInfo
+<div>
+    <form method="post" asp-action="Edit" asp-controller="Register">
+        <input type="hidden" asp-for="Id">
+        <div class="form-group">
+            <label asp-for="Username">Kullanıcı Adı:</label>
+            <input asp-for="Username" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="FullName">Adı Soyadı:</label>
+            <input asp-for="FullName" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Email">E-posta:</label>
+            <input asp-for="Email" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Telephone">Telefon:</label>
+            <input asp-for="Telephone" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Password">Şifre:</label>
+            <input asp-for="Password" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary">Güncelle</button>
+    </form>
+    <br>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Persona ID</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model.UserPersona)
+            {
+            <tr>
+                <td>@item.PersonaId</td>
+                <td>@item.Persona.Description</td>
+            </tr>
+            }
+        </tbody>
+
+    </table>
+</div>

@@ -1,0 +1,81 @@
+<div class="container">
+
+    <div class="profile">
+
+        <div class="profile-image">
+            @if (Model != null && !string.IsNullOrEmpty(Model.ProfileImage))
+            {
+                <img src="~/image/@Model.ProfileImage" alt="Profile Image">
+            }
+            else
+            {
+                <img src="~/image/default.jpg" alt="Default Image">
+            }  
+        </div>
+
+        <div class="profile-user-settings">
+
+            <h1 class="profile-user-name">@Model.NickName</h1>
+
+            <button class="btn profile-edit-btn">Edit Profile</button>
+
+            <button class="btn profile-settings-btn" aria-label="profile settings"><i class="fas fa-cog"
+                    aria-hidden="true"></i></button>
+        </div>
+
+        <div class="profile-stats">
+
+            <ul>
+                <li><span class="profile-stat-count">164</span> posts</li>
+                <li><span class="profile-stat-count">188</span> followers</li>
+                <li><span class="profile-stat-count">206</span> following</li>
+            </ul>
+
+        </div>
+
+        @if(Model.DateOfBirth != null)
+        {
+            <div class="profile-bio">
+
+            <p><span class="profile-real-name"><b>@Model.RealName</b>,</span> @Model.DateOfBirth Tarihinde doğdu.</p>
+            ,<span><a href="@Model.Instagram">@Model.NickName</a></span>
+            @if(Model.Tags != null) {
+                @foreach(var tag in Model.Tags)
+                {
+                <span>@tag </span>
+                }
+            }
+            </div>
+        }
+
+        <div class = "change-button">
+            <!-- Dosya seçme butonu -->
+            <input type="file" id="fileInput" style="display: none;" />
+            <label for="fileInput" class="change-photo-button">Change Photo</label>
+        </div>
+
+    </div>
+    <!-- End of profile section -->
+
+</div>
+<!-- End of container -->
+
+
+<main>
+
+    <div class="container">
+
+        <div class="gallery">
+            @if(ViewData["Post"] != null){
+            @await Html.PartialAsync("Post",ViewData["Post"])
+            @await Html.PartialAsync("Post",ViewData["Post"])
+
+            }
+            @await Html.PartialAsync("Upload")
+
+        </div>
+        <!-- End of gallery -->
+    </div>
+    <!-- End of container -->
+
+</main>

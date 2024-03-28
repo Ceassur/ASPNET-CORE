@@ -1,0 +1,59 @@
+<label for="int">int:</label>
+<input type="text" id="int">
+
+<label for="base">Birim:</label>
+<input type="text" id="base">
+
+<button onclick="fetchExchangeData()">Kur Sorgula</button>
+
+<div id="exchangeListesi"></div>
+
+
+<script>
+    function fetchExchangeData() {
+
+        var int = document.getElementById('int').value;
+        var base = document.getElementById('base').value;
+
+        $.ajax({
+            type: "GET",
+            url: "https://api.collectapi.com/economy/currencyToAll?",
+            data: {
+                int: int,
+                base: "USD",
+            },
+            headers: {
+                'Authorization': 'apikey 6HjxyQMNhCTfh1hRMUbAfL:6ihzJ4yATMQLqBqwyHFsj7',
+                'Content-Type': 'application/json'
+            },
+            success: function (data) {
+                // Başarılı istek durumu
+                displayExchangeData(data.result);
+            },
+            error: function (xhr, status, error) {
+                // Hata durumu
+                console.error('API isteği başarısız. Hata:', error);
+            }
+        });
+    }
+
+    function displayExchangeData(ExchangeData) {
+        // Eczane listesini ekrana eklemek için bir döngü
+        var exchangeListesiHtml = '';
+        for (var i = 0; i < exchangeData.length; i++) {
+            var exchange = exchangeData[i];
+            exchangeListesiHtml += `
+        <div>
+          <strong>${exchange.code}</strong><br>
+          İlçe: ${exchange.name}<br>
+          Adres: ${exchange.rate}<br>
+          Telefon: ${exchange.phone}<br>
+          <hr>
+        </div>
+      `;
+        }
+
+        // Eczane listesini gösterilen div'e ekleme
+        document.getElementById('exchangeListesi').innerHTML = exchangeListesiHtml;
+    }
+</script>

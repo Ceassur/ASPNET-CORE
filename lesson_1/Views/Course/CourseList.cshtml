@@ -1,0 +1,57 @@
+@Model List<Course>
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <style>
+            table {
+                font-family: arial, sans-serif;
+                border-collapse: collapse;
+                width: 100%;
+            }
+
+            td,
+            th {
+                border: 1px solid #dddddd;
+                text-align: left;
+                padding: 8px;
+            }
+
+            tr:nth-child(even) {
+                background-color: #dddddd;
+            }
+        </style>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <p>Kurs Listesi Sayfası</p>
+        @foreach(var course in Model){
+        <p>@course.Id</p>
+        <p>@course.Title</p>
+        }
+
+    </head>
+
+    <body>
+
+        <table>
+            <tr>
+                <th>Teacher Name</th>
+                <th>ID</th>
+                <th>CourseName</th>
+            </tr>
+            @foreach(var o in Model)
+            {
+            <tr>
+                <td id="course_@o.TeacherName">@o.TeacherName</td>
+                <td>@o.Id</td>
+                <td>@o.Title</td>,
+                <td Id="item_@o.Myimage"> <img src="~/img/@o.Myimage" class="img" alt="Myimage" /></td>
+            </tr>
+            }
+
+        </table>
+
+    </body>
+
+    </html>

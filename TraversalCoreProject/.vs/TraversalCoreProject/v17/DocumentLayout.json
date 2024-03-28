@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2DA24E-9119-4C9F-87A8-76431759305B}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\aspnet-core\\traversalcoreproject\\traversalcoreproject\\views\\destination\\destinationdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B2DA24E-9119-4C9F-87A8-76431759305B}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\views\\destination\\destinationdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA8ACAA-F175-47E5-B6AB-52CD46A85387}|EntityLayer\\EntityLayer.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\aspnet-core\\traversalcoreproject\\entitylayer\\concrete\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA8ACAA-F175-47E5-B6AB-52CD46A85387}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92246BBF-FC50-4E3E-9A0C-9FF0B68FC843}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\aspnet-core\\traversalcoreproject\\businesslayer\\concrete\\commentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92246BBF-FC50-4E3E-9A0C-9FF0B68FC843}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\commentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92246BBF-FC50-4E3E-9A0C-9FF0B68FC843}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\aspnet-core\\traversalcoreproject\\businesslayer\\concrete\\appusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92246BBF-FC50-4E3E-9A0C-9FF0B68FC843}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\appusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA7B54F-A19F-4F3C-90D2-47BD02E70AB3}|DTOLayer\\DTOLayer.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\aspnet-core\\traversalcoreproject\\dtolayer\\dtos\\commentdtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA7B54F-A19F-4F3C-90D2-47BD02E70AB3}|DTOLayer\\DTOLayer.csproj|solutionrelative:dtolayer\\dtos\\commentdtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2DA24E-9119-4C9F-87A8-76431759305B}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\aspnet-core\\traversalcoreproject\\traversalcoreproject\\mapping\\automappingprofile\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2DA24E-9119-4C9F-87A8-76431759305B}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\mapping\\automappingprofile\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2DA24E-9119-4C9F-87A8-76431759305B}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\aspnet-core\\traversalcoreproject\\traversalcoreproject\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2DA24E-9119-4C9F-87A8-76431759305B}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2DA24E-9119-4C9F-87A8-76431759305B}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\aspnet-core\\traversalcoreproject\\traversalcoreproject\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2DA24E-9119-4C9F-87A8-76431759305B}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA8ACAA-F175-47E5-B6AB-52CD46A85387}|EntityLayer\\EntityLayer.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\aspnet-core\\traversalcoreproject\\entitylayer\\concrete\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA8ACAA-F175-47E5-B6AB-52CD46A85387}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2DA24E-9119-4C9F-87A8-76431759305B}|TraversalCoreProject\\TraversalCoreProject.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\aspnet-core\\traversalcoreproject\\traversalcoreproject\\views\\comment\\addcomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B2DA24E-9119-4C9F-87A8-76431759305B}|TraversalCoreProject\\TraversalCoreProject.csproj|solutionrelative:traversalcoreproject\\views\\comment\\addcomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\EntityLayer\\Concrete\\Comment.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Comment.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\EntityLayer\\Concrete\\Comment.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Comment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T00:26:48.067Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommentManager.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\BusinessLayer\\Concrete\\CommentManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\CommentManager.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\BusinessLayer\\Concrete\\CommentManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\CommentManager.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAuwD0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T00:36:11.961Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guide.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\EntityLayer\\Concrete\\Guide.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Guide.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\EntityLayer\\Concrete\\Guide.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Guide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T01:09:35.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\BusinessLayer\\Concrete\\AppUserManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\AppUserManager.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\BusinessLayer\\Concrete\\AppUserManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\AppUserManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T00:42:44.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\DTOLayer\\DTOs\\CommentDTOs\\CommentDTO.cs",
+              "RelativeDocumentMoniker": "DTOLayer\\DTOs\\CommentDTOs\\CommentDTO.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\DTOLayer\\DTOs\\CommentDTOs\\CommentDTO.cs",
+              "RelativeToolTip": "DTOLayer\\DTOs\\CommentDTOs\\CommentDTO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T00:23:39.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapProfile.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\TraversalCoreProject\\Mapping\\AutoMappingProfile\\MapProfile.cs",
+              "RelativeDocumentMoniker": "TraversalCoreProject\\Mapping\\AutoMappingProfile\\MapProfile.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\TraversalCoreProject\\Mapping\\AutoMappingProfile\\MapProfile.cs",
+              "RelativeToolTip": "TraversalCoreProject\\Mapping\\AutoMappingProfile\\MapProfile.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:27:47.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DestinationDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\TraversalCoreProject\\Views\\Destination\\DestinationDetails.cshtml",
+              "RelativeDocumentMoniker": "TraversalCoreProject\\Views\\Destination\\DestinationDetails.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\TraversalCoreProject\\Views\\Destination\\DestinationDetails.cshtml",
+              "RelativeToolTip": "TraversalCoreProject\\Views\\Destination\\DestinationDetails.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T20:10:10.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\TraversalCoreProject\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "TraversalCoreProject\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\TraversalCoreProject\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "TraversalCoreProject\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:08:44.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DestinationController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\TraversalCoreProject\\Controllers\\DestinationController.cs",
+              "RelativeDocumentMoniker": "TraversalCoreProject\\Controllers\\DestinationController.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\TraversalCoreProject\\Controllers\\DestinationController.cs",
+              "RelativeToolTip": "TraversalCoreProject\\Controllers\\DestinationController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAD4vycAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:26:09.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddComment.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\TraversalCoreProject\\Views\\Comment\\AddComment.cshtml",
+              "RelativeDocumentMoniker": "TraversalCoreProject\\Views\\Comment\\AddComment.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Masa\u00FCst\u00FC\\ASPNET-CORE\\TraversalCoreProject\\TraversalCoreProject\\Views\\Comment\\AddComment.cshtml",
+              "RelativeToolTip": "TraversalCoreProject\\Views\\Comment\\AddComment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T19:11:01.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

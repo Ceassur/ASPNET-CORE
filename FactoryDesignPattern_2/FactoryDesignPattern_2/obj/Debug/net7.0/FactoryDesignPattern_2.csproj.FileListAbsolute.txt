@@ -1,0 +1,28 @@
+C:\Users\HAKAN HAKYEMEZ\source\repos\FactoryDesignPattern_2\FactoryDesignPattern_2\bin\Debug\net7.0\FactoryDesignPattern_2.exe
+C:\Users\HAKAN HAKYEMEZ\source\repos\FactoryDesignPattern_2\FactoryDesignPattern_2\bin\Debug\net7.0\FactoryDesignPattern_2.deps.json
+C:\Users\HAKAN HAKYEMEZ\source\repos\FactoryDesignPattern_2\FactoryDesignPattern_2\bin\Debug\net7.0\FactoryDesignPattern_2.runtimeconfig.json
+C:\Users\HAKAN HAKYEMEZ\source\repos\FactoryDesignPattern_2\FactoryDesignPattern_2\bin\Debug\net7.0\FactoryDesignPattern_2.dll
+C:\Users\HAKAN HAKYEMEZ\source\repos\FactoryDesignPattern_2\FactoryDesignPattern_2\bin\Debug\net7.0\FactoryDesignPattern_2.pdb
+C:\Users\HAKAN HAKYEMEZ\source\repos\FactoryDesignPattern_2\FactoryDesignPattern_2\obj\Debug\net7.0\FactoryDesignPattern_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAKAN HAKYEMEZ\source\repos\FactoryDesignPattern_2\FactoryDesignPattern_2\obj\Debug\net7.0\FactoryDesignPattern_2.AssemblyInfoInputs.cache
+C:\Users\HAKAN HAKYEMEZ\source\repos\FactoryDesignPattern_2\FactoryDesignPattern_2\obj\Debug\net7.0\FactoryDesignPattern_2.AssemblyInfo.cs
+C:\Users\HAKAN HAKYEMEZ\source\repos\FactoryDesignPattern_2\FactoryDesignPattern_2\obj\Debug\net7.0\FactoryDesignPattern_2.csproj.CoreCompileInputs.cache
+C:\Users\HAKAN HAKYEMEZ\source\repos\FactoryDesignPattern_2\FactoryDesignPattern_2\obj\Debug\net7.0\FactoryDesignPattern_2.dll
+C:\Users\HAKAN HAKYEMEZ\source\repos\FactoryDesignPattern_2\FactoryDesignPattern_2\obj\Debug\net7.0\refint\FactoryDesignPattern_2.dll
+C:\Users\HAKAN HAKYEMEZ\source\repos\FactoryDesignPattern_2\FactoryDesignPattern_2\obj\Debug\net7.0\FactoryDesignPattern_2.pdb
+C:\Users\HAKAN HAKYEMEZ\source\repos\FactoryDesignPattern_2\FactoryDesignPattern_2\obj\Debug\net7.0\FactoryDesignPattern_2.genruntimeconfig.cache
+C:\Users\HAKAN HAKYEMEZ\source\repos\FactoryDesignPattern_2\FactoryDesignPattern_2\obj\Debug\net7.0\ref\FactoryDesignPattern_2.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\FactoryDesignPattern_2\FactoryDesignPattern_2\obj\Debug\net7.0\FactoryDesignPattern_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\FactoryDesignPattern_2\FactoryDesignPattern_2\obj\Debug\net7.0\FactoryDesignPattern_2.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\FactoryDesignPattern_2\FactoryDesignPattern_2\obj\Debug\net7.0\FactoryDesignPattern_2.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\FactoryDesignPattern_2\FactoryDesignPattern_2\obj\Debug\net7.0\FactoryDesignPattern_2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\FactoryDesignPattern_2\FactoryDesignPattern_2\obj\Debug\net7.0\FactoryDesignPattern_2.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\FactoryDesignPattern_2\FactoryDesignPattern_2\obj\Debug\net7.0\refint\FactoryDesignPattern_2.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\FactoryDesignPattern_2\FactoryDesignPattern_2\obj\Debug\net7.0\FactoryDesignPattern_2.pdb
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\FactoryDesignPattern_2\FactoryDesignPattern_2\bin\Debug\net7.0\FactoryDesignPattern_2.exe
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\FactoryDesignPattern_2\FactoryDesignPattern_2\bin\Debug\net7.0\FactoryDesignPattern_2.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\FactoryDesignPattern_2\FactoryDesignPattern_2\bin\Debug\net7.0\FactoryDesignPattern_2.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\FactoryDesignPattern_2\FactoryDesignPattern_2\bin\Debug\net7.0\FactoryDesignPattern_2.dll
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\FactoryDesignPattern_2\FactoryDesignPattern_2\bin\Debug\net7.0\FactoryDesignPattern_2.pdb
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\FactoryDesignPattern_2\FactoryDesignPattern_2\obj\Debug\net7.0\FactoryDesignPattern_2.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Masaüstü\ASPNET-CORE\FactoryDesignPattern_2\FactoryDesignPattern_2\obj\Debug\net7.0\ref\FactoryDesignPattern_2.dll

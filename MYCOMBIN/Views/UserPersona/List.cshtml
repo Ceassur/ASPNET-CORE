@@ -1,0 +1,29 @@
+@model List<UserPersona>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>User Id</th>
+                <th>Persona Id</th>
+                <th>Create Date</th>
+                <th>Persona</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.UserId</td>
+                <td>@item.PersonaId</td>
+                <td>@item.CreateDate.ToString("yyyy-MM-dd")</td>
+                <td>@item.Persona.Description</td>
+            </tr>
+            }
+        </tbody>
+    </table>
